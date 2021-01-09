@@ -1,0 +1,15 @@
+1. If need new state then add only T_FSM_STATE sheet
+2. If need new action then add only T_FSM_ACTION sheet
+3. If need CURRENT_STATE --> ACTION --> NEXT_STATE then add only T_FSM_STATE_TRANSITION sheet
+4. If need STATE wise loan see for user then add only T_ROLE_STATE_MAP sheet
+5. If need recommend/return to user then add only T_STATE_RECOMMEND_RETURN_MAP sheet
+
+
+// 14-Oct-2020 Assaduzzaman sohan
+/*
+// T_FSM_STATE_TRANSITION
+CA	LOAN	RM_APPROVED	CA_UPDATE	CA_UPDATED
+CA	LOAN	UH_APPROVED	CA_UPDATE	CA_UPDATED
+CA	LOAN	RM_APPROVED	CA_SEND_QUERY	CA_SENT_QUERY
+CA	LOAN	UH_APPROVED	CA_SEND_QUERY	CA_SENT_QUERY
+*/

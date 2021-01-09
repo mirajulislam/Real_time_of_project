@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="12-08-2020/server/Java/Lms-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="12-08-2020/server/Java/Lms-server/src/main/java"/>
+	<classpathentry kind="src" path="12-08-2020/server/Java/Lms-server/src/test/java"/>
+	<classpathentry kind="src" path="12-09-2020/main/java"/>
+	<classpathentry kind="src" path="12-10-2020/server/Java/Lms-server/.mvn/wrapper"/>
+	<classpathentry kind="src" path="12-10-2020/server/Java/Lms-server/src/main/java"/>
+	<classpathentry kind="src" path="12-10-2020/server/Java/Lms-server/src/test/java"/>
+	<classpathentry kind="lib" path="12-08-2020/server/Java/Lms-server/src/main/resources/lms_report/Bangla_Font_SolaimanLipi/SolaimanLipiJarFile.jar"/>
+	<classpathentry kind="lib" path="12-09-2020/main/resources/lms_report/Bangla_Font_SolaimanLipi/SolaimanLipiJarFile.jar"/>
+	<classpathentry kind="lib" path="12-10-2020/server/Java/Lms-server/src/main/resources/lms_report/Bangla_Font_SolaimanLipi/SolaimanLipiJarFile.jar"/>
+	<classpathentry kind="lib" path="12-10-2020/server/Java/Lms-server/target/classes/lms_report/Bangla_Font_SolaimanLipi/SolaimanLipiJarFile.jar"/>
+	<classpathentry kind="output" path="12-08-2020/server/Java/Lms-server/target/classes"/>
+</classpath>
